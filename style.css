@@ -6,7 +6,6 @@
             margin: 10px;
         }
         body {
-            background-color: yellowgreen;
             color: red;
+            background-image: url("screenshot.jpg");
         }
-        
